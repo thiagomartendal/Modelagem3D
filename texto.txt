@@ -3,7 +3,8 @@ Detalhamento da Experiência de Modelagem Realista com o Blender
 Discutimos neste relatório a experiência de uso do Blender para a realização da modelagem 3D do Palácio Cruz e Souza, do centro de Florianópolis.
 Inicialmente, o Blender se trata de um software para modelagem 3D que abrange diversos recursos de computação gráfica, tais como texturização, renderização e animação.
 
-A ferramenta é muito prática e rápida para se transformar uma referência em um modelo inicial, e dispondo de diversos modificadores (em especial o modificador espelhar), muitos aspectos da modelagem puderam ser acelerados sem a necessidade de muito retrabalho.
+A ferramenta é muito prática e rápida para se transformar uma referência em um modelo inicial, e dispondo de diversos modificadores (em especial o modificador espelhar),
+muitos aspectos da modelagem puderam ser acelerados sem a necessidade de muito retrabalho.
 
 Uma questão muito positiva do software é a forma de se lidar com vértices e arestas. No Blender temos muita liberdade para realizar transformações (movimentação, extrusão e rotação) nos mesmos, deixando a produtividade mais prática e rápida, principalmente quando se utiliza desenhos de referência para se formar objetos preliminares.
 
