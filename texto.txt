@@ -7,11 +7,14 @@ A ferramenta é muito prática e rápida para se transformar uma referência em 
 muitos aspectos da modelagem puderam ser acelerados sem a necessidade de muito retrabalho.
 
 Uma questão muito positiva do software é a forma de se lidar com vértices e arestas. No Blender temos muita liberdade para realizar transformações (movimentação,
-extrusão e rotação) nos mesmos, deixando a produtividade mais prática e rápida, principalmente quando se utiliza desenhos de referência
-para se formar objetos preliminares.
+extrusão e rotação) nos mesmos, deixando a produtividade mais prática e rápida, principalmente quando se utiliza desenhos de referência para se formar objetos preliminares.
 
-Um aspecto negativo foi a forma como o software lida com curvas e suavização de superfícies para se formar um efeito curvo. O modificador Subdivisão de Superfície é perfeito para se aplicar suavização, tornando os objetos mais arredondados. Infelizmente, o modificador não pode ser aplicado em apenas algumas faces do objeto em questão, mas sim em todo o objeto. Isso acaba não sendo satisfatório pois faces que não deveriam receber uma suavização, recebem, o que acaba desvirtuando o objeto.
+Um aspecto negativo foi a forma como o software lida com curvas e suavização de superfícies para se formar um efeito curvo. O modificador Subdivisão de Superfície é
+perfeito para se aplicar suavização, tornando os objetos mais arredondados. Infelizmente, o modificador não pode ser aplicado em apenas algumas faces do objeto em questão,
+mas sim em todo o objeto. Isso acaba não sendo satisfatório pois faces que não deveriam receber uma suavização, recebem, o que acaba desvirtuando o objeto.
 
-Fazer a modelagem no Blender não foi uma tarefa tão difícil, porém, não foi tão simples devido a grande gama de opções e modificadores para se aplicar. Em muitas situações não foi fácil encontrar ou decidir pelo modificador correto para se ter um efeito que aproximasse o objeto da estrutura arquitetônica real. Esse fato gerou de certa forma um atraso na produtividade.
+Fazer a modelagem no Blender não foi uma tarefa tão difícil, porém, não foi tão simples devido a grande gama de opções e modificadores para se aplicar.
+Em muitas situações não foi fácil encontrar ou decidir pelo modificador correto para se ter um efeito que aproximasse o objeto da estrutura arquitetônica real.
+Esse fato gerou de certa forma um atraso na produtividade.
 
 Ainda sim, o Blender é um software bem completo e fácil de se usar, e permitiu a construção de uma boa modelagem do Palácio Cruz e Souza.
